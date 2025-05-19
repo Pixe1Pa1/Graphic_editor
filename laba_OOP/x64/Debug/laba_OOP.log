@@ -1,0 +1,24 @@
+﻿  main_Window.cpp
+B:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'main_Window.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      B:\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+B:\laba_OOP\main_Window.cpp(27,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+B:\laba_OOP\main_Window.cpp(471,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+B:\laba_OOP\main_Window.cpp(471,59): warning C4244:         with
+B:\laba_OOP\main_Window.cpp(471,59): warning C4244:         [
+B:\laba_OOP\main_Window.cpp(471,59): warning C4244:             T=unsigned int
+B:\laba_OOP\main_Window.cpp(471,59): warning C4244:         ]
+B:\laba_OOP\main_Window.cpp(471,59): warning C4244:         and
+B:\laba_OOP\main_Window.cpp(471,59): warning C4244:         [
+B:\laba_OOP\main_Window.cpp(471,59): warning C4244:             T=float
+B:\laba_OOP\main_Window.cpp(471,59): warning C4244:         ]
+B:\laba_OOP\main_Window.cpp(492,26): warning C4834: discarding return value of function with [[nodiscard]] attribute
+B:\laba_OOP\main_Window.cpp(493,29): warning C4834: discarding return value of function with [[nodiscard]] attribute
+B:\laba_OOP\main_Window.cpp(494,28): warning C4834: discarding return value of function with [[nodiscard]] attribute
+B:\laba_OOP\main_Window.cpp(495,25): warning C4834: discarding return value of function with [[nodiscard]] attribute
+B:\laba_OOP\main_Window.cpp(496,26): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  laba_OOP.vcxproj -> B:\laba_OOP\x64\Debug\laba_OOP.exe
