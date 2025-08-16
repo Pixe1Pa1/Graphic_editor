@@ -5,5 +5,5 @@ It supports:
  - **Operations:** Add, delete, move, copy elements/groups  
  - **Interaction:** Select the deepest element by coordinates  
  - **Undo/Redo:** Support for undoing and redoing actions  
- - **Traversal & Output:** Iterate through elements and print document structure  
+ - **Traversal & Output:** Iterate through elements and print document structure
 The design follows **OOP principles** and uses patterns such as Prototype, Composite, Facade, Command, and Iterator.
